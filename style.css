@@ -20,7 +20,7 @@ h1 h2 h3 h4 h5 h6 {
 linear-gradient(0deg, rgba(255, 255, 255, 0.5324511201839882) 21%, rgba(159, 171, 178, 0.8125814133435973) 100%); */
 
 .container1 {
-    background-image: url(/images/bg-header-desktop.png),
+    background-image: url(images/bg-header-desktop.png),
         linear-gradient(0deg, rgba(255, 255, 255, 0.5324511201839882) 90%, rgba(159, 171, 178, 0.8125814133435973) 100%);
     background-position: center center;
     background-size: cover;
