@@ -1,6 +1,3 @@
-/* font family Bai Jamjuree */
-/* Weights: 400, 600 */
-
 body {
     margin: 0px;
     padding: 0px;
@@ -13,11 +10,6 @@ h1 h2 h3 h4 h5 h6 {
     color: hsl(210, 10%, 33%);
     text-align: center;
 }
-
-/* TOP CONTAINER */
-
-/* background-image: url(/images/bg-header-desktop.png),
-linear-gradient(0deg, rgba(255, 255, 255, 0.5324511201839882) 21%, rgba(159, 171, 178, 0.8125814133435973) 100%); */
 
 .container1 {
     background-image: url(images/bg-header-desktop.png),
@@ -130,7 +122,6 @@ linear-gradient(0deg, rgba(255, 255, 255, 0.5324511201839882) 21%, rgba(159, 171
 
 .show-case {
     display: flex;
-    /* flex-direction: row; */
 }
 
 .left img {
@@ -243,7 +234,6 @@ linear-gradient(0deg, rgba(255, 255, 255, 0.5324511201839882) 21%, rgba(159, 171
 
 .container7 h1 {
     text-align: center;
-    /* padding: 4% 0 0 0; */
     color: hsl(210, 10%, 33%);
 }
 
@@ -405,48 +395,19 @@ padding: 2.7em 0;
     .right-container {
         padding-top: 10rem;
         text-align: center;
+        padding: 0 23% 0 6%;
     }
 
     .right h1 {
         color: hsl(210, 10%, 33%);
-
     }
 
     .right p {
         color: hsl(201, 11%, 66%);
+        padding: 0 5%;
     }
 
-
-
+    .feature {
+        text-align: center;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
